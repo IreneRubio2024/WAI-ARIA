@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:focus {
+  outline: 3px solid #4c80f0;
+  outline-offset: 2px;
+}
